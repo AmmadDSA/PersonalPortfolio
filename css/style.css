@@ -12798,3 +12798,6 @@ body.de_light::-webkit-scrollbar-track {
 body.de_light::-webkit-scrollbar-thumb {
   background-color: #dddddd;
 }
+.divider-dots{
+justify-content:center;
+}
